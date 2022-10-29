@@ -6,3 +6,10 @@
     margin-left: 40px;
     font-weight: 600;
 }
+
+.bg-img{
+  background-image: url("img/bg-2.png");
+  background-repeat: no-repeat;
+  
+  
+}
