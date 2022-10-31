@@ -1,3 +1,6 @@
+.container{
+  margin-bottom: 100px;
+}
 #menu img{
   width: 100px;
 }
@@ -7,9 +10,34 @@
     font-weight: 600;
 }
 
-.bg-img{
-  background-image: url("img/bg-2.png");
-  background-repeat: no-repeat;
-  
-  
+#seemore{
+  color: darkorange;
+  font-weight: 600;
+}
+.botomspace{
+  margin-bottom: 50px;
+}
+
+.card{
+border: none;
+box-shadow: 5px 10px 15px  #a5a5a5;
+}
+.card img{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.cborder{
+  border-top-width: 0;
+  border-right-width: 0;  
+  border-left-width: 0;
+  border-bottom-width: 8px;
+  border-style: solid;
+  border-image: linear-gradient(to right, rgb(235, 221, 94), rgb(247, 231, 8)) 1;
+  margin-left: 46%;
+  margin-right: 46%;
+  margin-bottom: 100px;
+
 }
